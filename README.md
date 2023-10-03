@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="left">Hi, I'm Tiago SM</h1>
 
-<!--
-**Tiago-SM/Tiago-SM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔥 I’m a FullStack Dev student
+- 🌱 I’m currently learning Javascript, Node.js, SQL
+- 👯 I’m looking to collaborate with beginners like me 
+- 📫 How to reach me: <a href="linkedin.com/in/tiago-s-m-dev">Linkedin</a>
+- ⚡ I like studying philosophy and do calisthenics in spare time
+<br><br>
+<h2 align="left">Tech Stack<h2>
+<p align="left" style="background:yellow">
+  <img align="center" src="https://img.shields.io/badge/HTML-black?logo=html5&labelColor=black" alt="HTML"/>
+  <img align="center" src="https://img.shields.io/badge/CSS-black?logo=css3&logoColor=blue&labelColor=black" alt="CSS"/>
+  <img align="center" src="https://img.shields.io/badge/Javascript-black?logo=javascript&labelColor=black" alt="Javascript"/>
+</p>
